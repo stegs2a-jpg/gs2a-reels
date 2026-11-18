@@ -1,0 +1,7 @@
+{
+  "name": "gs2a-reels",
+  "private": true,
+  "description": "Build vertical 9:16 Reels from the GS2A square ads with Node, Playwright and ffmpeg",
+  "scripts": { "build": "node build.js" },
+  "dependencies": { "playwright": "*" }
+}
